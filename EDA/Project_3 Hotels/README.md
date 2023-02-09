@@ -8,7 +8,7 @@
 5. [Результат](https://github.com/Maria-27A/Skillfactory_DS/blob/main/EDA/Project_3%20Hotels/README.md#Результат)
 6. [Выводы](https://github.com/Maria-27A/Skillfactory_DS/blob/main/EDA/Project_3%20Hotels/README.md#Выводы)
 
-### Описание проекта
+### Описание проекта.
 На основе датасета, в котором содержатся сведения о 515 000 отзывов на отели Европы, необходимо подготовить и проанализировать данные для дальнейшего обучения модели на их основе, которая должна предсказывать рейтинг отеля по данным сайта Booking.
 
 :arrow_up:[к оглавлению](https://github.com/Maria-27A/Skillfactory_DS/tree/main/EDA/Project_3%20Hotels/README.md#Оглавление)
