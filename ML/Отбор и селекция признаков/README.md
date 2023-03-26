@@ -3,7 +3,7 @@
 ## Оглавление
 1. [Описание проекта](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Описание-проекта)
 2. [Какой кейс решаем?](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Какой-кейс-решаем)
-3. [Краткая информация о данных]https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Краткая-информация-о-данных)
+3. [Краткая информация о данных](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Этапы-работы-над-проектом)
 5. [Результат](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Результат)
 6. [Выводы](https://github.com/Maria-27A/Skillfactory_DS/blob/main/ML/Отбор%20и%20селекция%20признаков/README.md#Выводы)
